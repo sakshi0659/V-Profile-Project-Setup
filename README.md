@@ -55,7 +55,7 @@ The **V-Profile Project** consists of multiple servers working together:
 ---
 
 ## ⚙️ Architecture Diagram
-![Architecture Diagram]![ArchitectureDiagram](https://github.com/user-attachments/assets/f11ab771-5fe2-4f7b-a0d7-50700394e439)
+![ArchitectureDiagram](https://github.com/user-attachments/assets/f11ab771-5fe2-4f7b-a0d7-50700394e439)
 
 
 ---
