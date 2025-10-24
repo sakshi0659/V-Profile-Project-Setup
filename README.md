@@ -88,6 +88,9 @@ It demonstrates a **real-world multi-tier application architecture**, ideal for 
 ## 🧠 Summary
 The **V-Profile Project** bridges the gap between learning and real-world AWS setups.  
 It simplifies **local development**, promotes **IaC principles**, and provides a **safe environment** for innovation.
+
 ---
 
-## 🧑‍💻 Author **Sakshi Sharma** 📫 [Connect on LinkedIn] www.linkedin.com/in/sakshisharma48
+## 👩‍💻 Author
+**Sakshi Sharma**  
+📫 [Connect on LinkedIn] : www.linkedin.com/in/sakshisharma48
